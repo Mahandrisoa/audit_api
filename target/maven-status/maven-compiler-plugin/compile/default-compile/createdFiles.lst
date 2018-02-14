@@ -1,0 +1,10 @@
+com\example\demo\InitializerApplication.class
+com\example\demo\controller\ObjetDetailsController.class
+com\example\demo\controller\AuditController.class
+com\example\demo\model\Entretien.class
+com\example\demo\repository\DisqueDetailsRepository.class
+com\example\demo\model\Intervenant.class
+com\example\demo\repository\ObjetDetailsRepository.class
+com\example\demo\model\Materiel.class
+com\example\demo\controller\DisqueDetailsController.class
+com\example\demo\repository\AuditRepository.class
